@@ -35,8 +35,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryize&theme=solarized_dark)
 
-[![codewars](https://www.codewars.com/users/ChekashovMatvey/badges/small)](https://www.codewars.com/users/ChekashovMatvey) 
-
 <br>
 
 ### 🗣 Я в соц сетях
