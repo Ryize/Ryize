@@ -32,8 +32,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryize&theme=dark)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ryize&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryize&theme=solarized_dark)
 
