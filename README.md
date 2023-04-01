@@ -6,6 +6,7 @@
   <li><a href='https://github.com/Ryize/RaccoonAnonymous'>Анонимный месенджер</a></li>
   <li><a href='https://github.com/Ryize/CourseMC'>Сайт курса по Python</a></li>
   <li><a href='https://github.com/Ryize/qrAutomation'>Сайт для автоматизации создания расписаний уборки</a></li>
+   <li><a href='https://github.com/Ryize/ParentalControl'>Программа родительского контроля</a></li>
   <br>
  и многие другие, полный список можно посмотреть <a href='https://github.com/Ryize?tab=repositories'>тут</a>.
  </ul>
