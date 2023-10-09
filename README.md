@@ -36,6 +36,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryize&theme=solarized_dark)
 
+![](https://komarev.com/ghpvc/?username=Ryize&color=dc143c)
 <br>
 
 ### 🗣 Я в соц сетях
