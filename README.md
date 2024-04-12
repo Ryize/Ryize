@@ -31,6 +31,8 @@
 
 ### 📈 Статистика GitHub
 
+![](https://github-profile-trophy.vercel.app/?username=Ryize&theme=onedark)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryize&theme=dark)](https://git.io/streak-stats)
 
 
